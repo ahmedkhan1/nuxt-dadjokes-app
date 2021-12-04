@@ -1,7 +1,7 @@
 export default {
   target: 'static',
   router: {
-    base: 'nuxt-dadjokes-app'
+    base: '/nuxt-dadjokes-app'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
