@@ -19,14 +19,14 @@ export default {
       }
     },
     async created(){
-      try{
-        let result = await this.searchJokes();
-        if(result){
-          this.jokes = result.data.results;
-        }
-      }catch(err){
-        console.log(err);
-      }
+      // try{
+      //   let result = await this.searchJokes();
+      //   if(result){
+      //     this.jokes = result.data.results;
+      //   }
+      // }catch(err){
+      //   console.log(err);
+      // }
     },
     head(){
         return {
