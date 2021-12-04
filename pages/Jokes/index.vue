@@ -1,6 +1,6 @@
 <template>
   <div>
-      <!-- <Joke v-for="joke in jokes" :key="joke.id" :id="joke.id" :joke="joke.joke" /> -->
+      <Joke v-for="joke in jokes" :key="joke.id" :id="joke.id" :joke="joke.joke" />
   </div>
 </template>
 
@@ -19,14 +19,14 @@ export default {
       }
     },
     async created(){
-      // try{
-      //   let result = await this.searchJokes();
-      //   if(result){
-      //     this.jokes = result.data.results;
-      //   }
-      // }catch(err){
-      //   console.log(err);
-      // }
+      try{
+        let result = await this.searchJokes();
+        if(result){
+          this.jokes = result.data.results;
+        }
+      }catch(err){
+        console.log(err);
+      }
     },
     head(){
         return {

@@ -1,6 +1,6 @@
 <template>
     <div class="joke">
-        <h1>About DadJokes</h1>
+        <h1>About Dad Jokes</h1>
         <p>This is an app that displays corny dad jokes</p>
     </div>
 </template>
