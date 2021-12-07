@@ -1,4 +1,23 @@
-# dadjokes
+# Nuxt Dadjokes App
+
+This project includes a nuxt app which utilizes dadjokes API. The purpose of this project to represent understanding of the nuxt framework. The project is deployed on github action, and can be viewed with the following link.
+
+https://ahmedkhan1.github.io/nuxt-dadjokes-app/
+
+<h2>Project view: </h2>
+
+<h3>Home page:</h3>
+
+![image](https://user-images.githubusercontent.com/26416009/145082808-5e1f2232-9616-43ad-bdba-32e6f516f139.png)
+
+<h3>Jokes page:</h3>
+
+![image](https://user-images.githubusercontent.com/26416009/145082875-f3461504-811a-41fa-aad8-3f742ae8e82f.png)
+
+<h3>About us page:</h3>
+
+![image](https://user-images.githubusercontent.com/26416009/145082968-aa2d8519-0475-4ee6-baf9-179fe292637b.png)
+
 
 ## Build Setup
 
