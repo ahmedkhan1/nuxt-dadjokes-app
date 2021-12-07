@@ -1,6 +1,6 @@
 # Nuxt Dadjokes App
 
-This project includes a nuxt app which utilizes dadjokes API. The purpose of this project to represent understanding of the nuxt framework. The project is deployed on github action, and can be viewed with the following link.
+This project includes a nuxt app which utilizes dadjokes API. The purpose of this project is to represent understanding of the nuxt framework. The project is deployed on github action, and can be viewed with the following link.
 
 https://ahmedkhan1.github.io/nuxt-dadjokes-app/
 
