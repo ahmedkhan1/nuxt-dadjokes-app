@@ -33,8 +33,8 @@ export default {
     },
     data(){
         return {
-            joke: null,
-            noRecord: false,
+          joke: null,
+          noRecord: false,
         }
     },
     async created(){
